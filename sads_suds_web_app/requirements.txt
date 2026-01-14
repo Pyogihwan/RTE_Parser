@@ -1,0 +1,5 @@
+Flask==2.3.3
+pandas==2.0.3
+pydantic==2.3.0
+langgraph==0.0.26
+# clang==17.0.0  # Optional: install manually if needed for better accuracy
